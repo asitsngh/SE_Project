@@ -1,5 +1,13 @@
 # Automation of equipment collection
 
+## Contribution:
+I welcome any and all contributions! Here are some ways you can get started:
+
+- Report bugs: If you encounter any bugs, please let us know. Open up an issue and let us know the problem.
+- Contribute code: If you are a developer and want to contribute, follow the instructions below to get started!
+- Suggestions: If you don't want to code but have some awesome ideas, open up an issue explaining some updates or imporvements you would like to see!
+- Documentation: If you see the need for some additional documentation, feel free to add some!
+
 ## Problem Statement: 
 The goal of this project is to automate the equipment collection process for the PE department of the college. Currently, the process involves students manually recording their equipment borrowing and return details in a register or notebook.  They must also leave their ID cards as a kind of a mortgage which is only returned upon the return of the equipment. However, this system is out dated, cumbersome, and challenging to maintain.
 
